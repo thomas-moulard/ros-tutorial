@@ -1,0 +1,9 @@
+<stack>
+  <description brief="my_stack">my_stack</description>
+  <author>Maintained by Thomas Moulard</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/my_stack</url>
+  <depend stack="ros" />
+
+</stack>
