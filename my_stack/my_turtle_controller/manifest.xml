@@ -9,6 +9,8 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/my_turtle_controller</url>
 
-  <package depend="turtlesim" />
+  <depend package="roscpp" />
+  <depend package="rospy" />
+  <depend package="turtlesim" />
 
 </package>
